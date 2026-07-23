@@ -1,0 +1,11 @@
+My name is Shivam Arora.
+I am currently learning about Machine Learning, AI, and Data Science.
+
+My career goal is to become an AI Engineer.
+I am especially interested in automation, LLMs, and machine learning.
+
+I have experience with Python, Machine Learning, and AI.
+I am currently building projects on RAG to grow my hands-on skills.
+
+For fun, I enjoy going to the gym.
+A fun fact about me is that I love to go to the gym daily, which helps me build consistency.
